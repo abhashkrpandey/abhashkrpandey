@@ -1,8 +1,21 @@
+
 Hi there 👋 Myself Abhash Kumar Pandey .I love to get creative with technology and code .
 
-- 🔭 I’m currently working on a Reddit-like commumity based platform.
-- 🌱 I’m currently learning MERN & DSA.
 - 👯 I’m looking to collaborate on some great projects.
+
+## 🧩 LeetCode
+- 🔹 Solved **300+ problems**
+- 🔹 Profile: [My LeetCode](https://leetcode.com/abhashkrpandey)
+
+## 🔥 Featured Projects
+
+### 📌 [Threadit](https://threadit-155p.onrender.com/)
+🔹 Developed a social platform allowing users to create posts, comment threads, and participate
+in community discussions
+
+### 📌 [Chatapp](https://chatapp-1-5yi5.onrender.com/)
+🔹 Built a real-time chat system supporting instant messaging, multiple chat rooms, and private
+conversations
 
 
 ## 🌐 Socials:
@@ -14,5 +27,8 @@ Hi there 👋 Myself Abhash Kumar Pandey .I love to get creative with technology
 ![](https://github-readme-stats.vercel.app/api?username=abhashkrpandey&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhashkrpandey&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhashkrpandey&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
